@@ -2,12 +2,23 @@
 
 This is a Pokémon List app built with Jetpack Compose that allows users to browse a list of Pokémon and mark their favorite ones. The app retrieves Pokémon data from an API and manages user favorites through a local database, providing a seamless experience for users to track their favorite Pokémon.
 
+#### Screenshots
+
 <p float="left"> 
-	<img src="https://github.com/OscarEscamilla/pokemon_compose/blob/main/screenshots/Screenshot_1725822053.png" alt="Login" width="250" /> 
-	<img src="https://github.com/OscarEscamilla/pokemon_compose/blob/main/screenshots/Screenshot_1725822111.png" alt="SignUp" width="250" /> 
-  <img src="https://github.com/OscarEscamilla/pokemon_compose/blob/main/screenshots/Screenshot_1725822161.png" alt="SignUp" width="250" /> 
-  <img src="https://github.com/OscarEscamilla/pokemon_compose/blob/main/screenshots/Screenshot_1725822235.png" alt="SignUp" width="250" /> 
+	<img src="/screenshots/Screenshot_1725822053.png" alt="Login" width="250" /> 
+	<img src="/screenshots/Screenshot_1725822111.png" alt="SignUp" width="250" /> 
+  <img src="/screenshots/Screenshot_1725822161.png" alt="SignUp" width="250" /> 
 </p>
+
+#### Preview
+
+<p float="left"> 
+	<img src="/screenshots/demo1.gif"  width="250"/>
+	<img src="/screenshots/demo2.gif"  width="250"/>
+	<img src="/screenshots/demo3.gif"  width="250"/>
+</p>
+
+
 
 ### Features
 - Pokémon List: Displays a list of Pokémon fetched from an external API, with detailed information about each Pokémon.
