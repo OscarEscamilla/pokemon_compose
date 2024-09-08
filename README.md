@@ -2,6 +2,9 @@
 
 This is a Pokémon List app built with Jetpack Compose that allows users to browse a list of Pokémon and mark their favorite ones. The app retrieves Pokémon data from an API and manages user favorites through a local database, providing a seamless experience for users to track their favorite Pokémon.
 
+## Download
+Go to the [Releases](https://github.com/OscarEscamilla/pokemon_compose/releases/) to download the latest APK.
+
 #### Screenshots
 
 <p float="left"> 
