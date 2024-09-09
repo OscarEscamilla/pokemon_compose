@@ -50,3 +50,10 @@ The project follows the Clean Architecture pattern:
 - Domain Layer: Contains business logic and use cases.
 - Presentation Layer: Handles UI using Jetpack Compose and state management with StateFlow.
 
+### Improvements to do 
+
+- use dimens 
+- use localizable strings
+- create a cuatom theme 
+- show pokemon color based in his type 
+- add unit testing
