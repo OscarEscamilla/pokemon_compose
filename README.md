@@ -57,3 +57,4 @@ The project follows the Clean Architecture pattern:
 - create a cuatom theme 
 - show pokemon color based in his type 
 - add unit testing
+- write more reusable ui components
